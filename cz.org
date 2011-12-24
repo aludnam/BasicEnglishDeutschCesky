@@ -121,7 +121,7 @@
 | der Flug                        | flight                  | let                |
 | die Blume                       | flower                  | kv\v etina         |
 | das Essen                       | food                    | j\'\i dlo          |
-| die Kraft [Newton]                       | force                   | s\'\i la           |
+| die Kraft [Newton]              | force                   | s\'\i la           |
 | die Form                        | form                    | dotazn\'\i k       |
 | der Freund, die Freundin        | friend                  | kamar\'ad          |
 | die Frucht                      | fruit                   | ovoce              |
@@ -133,7 +133,7 @@
 | der F\"uhrer                    | guide                   | pr\accent23 uvodce |
 | hassen                          | to hate                 | nen\'avid\v et     |
 | h\"ohren                        | to hear                 | sly\v set          |
-| die W\"arme [Joule]                  | heat                    | teplo              |
+| die W\"arme [Joule]             | heat                    | teplo              |
 | helfen                          | to help                 | pomoct             |
 | die Geschichte                  | history                 | historie           |
 | das Loch                        | hole                    | d\'\i ra           |
@@ -151,39 +151,39 @@
 | die Versicherung                | insurance               | poji\v st\v en\'\i |
 | die Erfindung                   | invention               | vyn\'alez          |
 | das Eisen                       | iron                    | \v zelezo          |
-|                                 | join (people)           | p\v ridatse        |
-|                                 | journey                 | cesta              |
-|                                 | to jump                 | sk\'akat           |
-|                                 | to kick                 | kopat              |
-|                                 | to kiss                 | pol\'\i bit        |
-|                                 | full                    | pln\'y             |
-|                                 | daughter                | dcera              |
-|                                 | day                     | den                |
-|                                 | death                   | smrt               |
-|                                 | debt                    | dluh               |
-|                                 | decission               | rozhodnut\'\i      |
-|                                 | degree (celsius, angle) | stupe\v n          |
-|                                 | detail                  | detail             |
-|                                 | development             | vyvoj              |
-|                                 | digestion               | tr\'aven\'\i       |
-|                                 | direction               | sm\v er            |
-|                                 | discovery               | objev              |
-|                                 | discussion              | diskuze            |
-|                                 | disease                 | nemoc              |
-|                                 | disgusting              | nechutny           |
-|                                 | distance                | vzd\'alenost       |
-|                                 | distribution            | distribuce         |
-|                                 | division (math, cells)  | d\v elen\'\i       |
-|                                 | doubt                   | pochybovat         |
-|                                 | to drink                | p\'\i t            |
-|                                 | to drive                | \v r\'\i dit       |
-|                                 | dust                    | prach              |
-|                                 | earth                   | zem\v e            |
-|                                 | edge                    | hrana              |
-|                                 | education               | v\'ychova          |
-|                                 | end                     | konec              |
-|                                 | error                   | chyva              |
-|                                 | event                   | ud\'alost          |
+| treffen                         | join (people)           | p\v ridatse        |
+| die Reise                       | journey                 | cesta              |
+| springen                        | to jump                 | sk\'akat           |
+| treten                          | to kick                 | kopat              |
+| k\"ussen                        | to kiss                 | pol\'\i bit        |
+| voll                            | full                    | pln\'y             |
+| die Tochter                     | daughter                | dcera              |
+| der Tag                         | day                     | den                |
+| der Tot                         | death                   | smrt               |
+| die Schulden                    | debt                    | dluh               |
+| die Entscheidung                | decission               | rozhodnut\'\i      |
+| (der) Grad                      | degree (celsius, angle) | stupe\v n          |
+| das Detail                      | detail                  | detail             |
+| die Entwicklung                 | development             | vyvoj              |
+| die Verdauung                   | digestion               | tr\'aven\'\i       |
+| die Richtung                    | direction               | sm\v er            |
+| die Entdeckung                  | discovery               | objev              |
+| die Diskussion                  | discussion              | diskuze            |
+| die Krankheit                   | disease                 | nemoc              |
+| eklig                           | disgusting              | nechutny           |
+| der Abstand                     | distance                | vzd\'alenost       |
+| die Verteilung                  | distribution            | distribuce         |
+| die Division, die Teilung       | division (math, cells)  | d\v elen\'\i       |
+| der Zweifel                     | doubt                   | pochybovat         |
+| trinken                         | to drink                | p\'\i t            |
+| fahren                          | to drive                | \v r\'\i dit       |
+| der Staub                       | dust                    | prach              |
+| die Erde                        | earth                   | zem\v e            |
+| die Ecke                        | edge                    | hrana              |
+| die Bildung                     | education               | v\'ychova          |
+| das Ende                        | end                     | konec              |
+| der Fehler                      | error                   | chyva              |
+| das Ereignis                    | event                   | ud\'alost          |
 |                                 |                         |                    |
 |                                 |                         |                    |
 |                                 |                         |                    |
