@@ -1,468 +1,468 @@
 #+ATTR_LaTeX: longtable
-| deutsch       | english                 | \v cesky           |
-|---------------+-------------------------+--------------------|
-| kommen        | come                    | p\v rij\'\i t      |
-| bekommen      | get                     | dostat             |
-| geben         | give, put               | d\'at              |
-| gehen         | go                      | j\'\i t            |
-| lassen        | let                     | nechat             |
-| machen        | do, make                | d\v elat           |
-| scheinen      | seem                    | vypadat            |
-| nehmen        | take                    | vz\'\i t           |
-| sein          | be                      | b\'yt              |
-| haben         | have                    | m\'\i t            |
-| sagen         | say                     | \v r\'\i ct        |
-| sehen         | see                     | vid\v et           |
-| senden        | send                    | poslat             |
-| k\"onnen      | can                     | moci               |
-| ich werde     | I will                  | budu               |
-| \"uber        | about                   | o                  |
-| dar\"uber     | across                  | p\v res            |
-| danach        | after                   | po                 |
-| gegen         | against                 | proti              |
-| zwischen      | among, between          | mezi               |
-| an (etwas)    | at something            | u                  |
-| an (Person)   | at person               | na                 |
-| vor (zeitl.)  | before                  | p\v red            |
-| runter        | down                    | dol\accent23 u     |
-| von           | from                    | ze                 |
-| in            | in                      | ve                 |
-| aus           | off (electr. device)    | vypnut\'y          |
-| an            | on                      | zapnut\'y          |
-| auf           | on top                  | na                 |
-| \"uber        | over                    | nad                |
-| durch         | through                 | skrz               |
-| zu            | to                      | ke                 |
-| unter         | under                   | pod                |
-| oben          | up                      | nahoru             |
-| hinter        | behind                  | za                 |
-| mit           | with                    | se                 |
-| als           | as                      | jako               |
-| f\"ur         | for                     | pro                |
-| bis           | till                    | do                 |
-| als, wie      | than                    | ne\v z             |
-| alles         | all                     | v\v sichni         |
-| irgendetwas   | anything                | n\v eco            |
-| jedes         | everything              | v\v sechno         |
-| wenig         | little                  | m\'alo             |
-| viel          | much                    | hodn\v e           |
-| nein          | no                      | ne                 |
-| etwas anderes | another                 | dal\v s\'\i        |
-| einiges       | some                    | n\v ejak\'y        |
-|               | such                    | takov\'y           |
-|               | because                 | proto\v ze         |
-|               | but                     | ale                |
-|               | or                      | nebo               |
-|               | here                    | tade               |
-|               | near                    | bl\'\i zko         |
-|               | now                     | nyn\'\i            |
-|               | again                   | zase               |
-|               | enough                  | dost               |
-|               | to aggree               | souhlasit          |
-|               | air                     | vzduch             |
-|               | animal                  | zv\'\i\v re        |
-|               | art                     | um\v en\'\i        |
-|               | answer                  | odpov\v ed         |
-|               | argument                | argument           |
-|               | attack                  | \'utok             |
-|               | fight                   | boj                |
-|               | attempt, experiment     | pokus              |
-|               | attention               | pozornost          |
-|               | the back                | z\'ada             |
-|               | backwards               | nazp\'atek         |
-|               | forward                 | vp\v red           |
-|               | base                    | z\'aklad           |
-|               | behaviour               | chov\'an\'\i       |
-|               | belief                  | v\'\i ra           |
-|               | birthday                | narosenine         |
-|               | to bite                 | kousat             |
-|               | blood                   | krev               |
-|               | body                    | t\v elo            |
-|               | breath                  | drch               |
-|               | brother                 | bratr              |
-|               | building                | budova             |
-|               | burn                    | ho\v ret           |
-|               | business                | obchod             |
-|               | butter                  | m\'aslo            |
-|               | protection              | obrana             |
-|               | luck                    | \v st\v est\'\i    |
-|               | color                   | barva              |
-|               | comfort                 | komfort            |
-|               | comparison              | porovn\'an\'\i     |
-|               | competition             | z\'avod            |
-|               | condition               | podminka           |
-|               | connection              | spojen\'\i         |
-|               | control                 | kontrola           |
-|               | to cook                 | va\v rit           |
-|               | to copy                 | kopirovat          |
-|               | cork                    | korek              |
-|               | cotton                  | kavlna             |
-|               | cough                   | ka\v sel           |
-|               | country                 | zem\v e            |
-|               | crack                   | sp\'ara            |
-|               | crime                   | kriminalita        |
-|               | to cry                  | bre\v cet          |
-|               | curve                   | k\v rivka          |
-|               | damage                  | skoda              |
-|               | to destroy              | zni\v cit          |
-|               | danger                  | nebezpe\v ci       |
-|               | example                 | p\v r\'\i klad     |
-|               | to exchange             | vym\v enit         |
-|               | experience              | zku\v senost       |
-|               | fact                    | fakt               |
-|               | to fall                 | padat              |
-|               | family                  | rodina             |
-|               | father                  | otec               |
-|               | fear                    | strch              |
-|               | feeling                 | pocit              |
-|               | field                   | pole               |
-|               | fire                    | ohe\v n            |
-|               | flame                   | plamen             |
-|               | flight                  | let                |
-|               | flower                  | kv\v etina         |
-|               | food                    | j\'\i dlo          |
-|               | force                   | s\'\i la           |
-|               | form                    | dotazn\'\i k       |
-|               | friend                  | kamar\'ad          |
-|               | fruit                   | ovoce              |
-|               | glass                   | sklo               |
-|               | gold                    | zlato              |
-|               | government              | vl\'ada            |
-|               | grass                   | tr\'ava            |
-|               | group                   | skupina            |
-|               | guide                   | pr\accent23 uvodce |
-|               | to hate                 | nen\'avid\v et     |
-|               | to hear                 | sly\v set          |
-|               | heat                    | teplo              |
-|               | to help                 | pomoct             |
-|               | history                 | historie           |
-|               | hole                    | d\'\i ra           |
-|               | to hope                 | doufat             |
-|               | hour                    | hodina             |
-|               | humour                  | humor              |
-|               | ice                     | led                |
-|               | ice cream               | zmrzlina           |
-|               | idea                    | napad              |
-|               | to increase             | p\v ridat          |
-|               | to climb (stairs)       | vyl\'ezt           |
-|               | industry                | pr\accent23 umysl  |
-|               | insect                  | hmyz               |
-|               | instrument              | n\'astroj          |
-|               | insurance               | poji\v st\v en\'\i |
-|               | invention               | vyn\'alez          |
-|               | iron                    | \v zelezo          |
-|               | join (people)           | p\v ridatse        |
-|               | journey                 | cesta              |
-|               | to jump                 | sk\'akat           |
-|               | to kick                 | kopat              |
-|               | to kiss                 | pol\'\i bit        |
-|               | full                    | pln\'y             |
-|               | daughter                | dcera              |
-|               | day                     | den                |
-|               | death                   | smrt               |
-|               | debt                    | dluh               |
-|               | decission               | rozhodnut\'\i      |
-|               | degree (celsius, angle) | stupe\v n          |
-|               | detail                  | detail             |
-|               | development             | vyvoj              |
-|               | digestion               | tr\'aven\'\i       |
-|               | direction               | sm\v er            |
-|               | discovery               | objev              |
-|               | discussion              | diskuze            |
-|               | disease                 | nemoc              |
-|               | disgusting              | nechutny           |
-|               | distance                | vzd\'alenost       |
-|               | distribution            | distribuce         |
-|               | division (math, cells)  | d\v elen\'\i       |
-|               | doubt                   | pochybovat         |
-|               | to drink                | p\'\i t            |
-|               | to drive                | \v r\'\i dit       |
-|               | dust                    | prach              |
-|               | earth                   | zem\v e            |
-|               | edge                    | hrana              |
-|               | education               | v\'ychova          |
-|               | end                     | konec              |
-|               | error                   | chyva              |
-|               | event                   | ud\'alost          |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
-|               |                         |                    |
+| deutsch                         | english                 | \v cesky           |
+|---------------------------------+-------------------------+--------------------|
+| kommen                          | come                    | p\v rij\'\i t      |
+| bekommen                        | get                     | dostat             |
+| geben                           | give, put               | d\'at              |
+| gehen                           | go                      | j\'\i t            |
+| lassen                          | let                     | nechat             |
+| machen                          | do, make                | d\v elat           |
+| scheinen                        | seem                    | vypadat            |
+| nehmen                          | take                    | vz\'\i t           |
+| sein                            | be                      | b\'yt              |
+| haben                           | have                    | m\'\i t            |
+| sagen                           | say                     | \v r\'\i ct        |
+| sehen                           | see                     | vid\v et           |
+| senden                          | send                    | poslat             |
+| k\"onnen                        | can                     | moci               |
+| ich werde                       | I will                  | budu               |
+| \"uber                          | about                   | o                  |
+| dar\"uber                       | across                  | p\v res            |
+| danach                          | after                   | po                 |
+| gegen                           | against                 | proti              |
+| zwischen                        | among, between          | mezi               |
+| an (etwas)                      | at something            | u                  |
+| an (Person)                     | at person               | na                 |
+| vor (zeitl.)                    | before                  | p\v red            |
+| runter                          | down                    | dol\accent23 u     |
+| von                             | from                    | ze                 |
+| in                              | in                      | ve                 |
+| aus                             | off (electr. device)    | vypnut\'y          |
+| an                              | on                      | zapnut\'y          |
+| auf                             | on top                  | na                 |
+| \"uber                          | over                    | nad                |
+| durch                           | through                 | skrz               |
+| zu                              | to                      | ke                 |
+| unter                           | under                   | pod                |
+| oben                            | up                      | nahoru             |
+| hinter                          | behind                  | za                 |
+| mit                             | with                    | se                 |
+| als                             | as                      | jako               |
+| f\"ur                           | for                     | pro                |
+| bis                             | till                    | do                 |
+| als, wie                        | than                    | ne\v z             |
+| alles                           | all                     | v\v sichni         |
+| irgendetwas                     | anything                | n\v eco            |
+| jedes                           | everything              | v\v sechno         |
+| wenig                           | little                  | m\'alo             |
+| viel                            | much                    | hodn\v e           |
+| nein                            | no                      | ne                 |
+| etwas anderes                   | another                 | dal\v s\'\i        |
+| einiges                         | some                    | n\v ejak\'y        |
+| solche                          | such                    | takov\'y           |
+| weil                            | because                 | proto\v ze         |
+| aber                            | but                     | ale                |
+| oder                            | or                      | nebo               |
+| hier                            | here                    | tade               |
+| nah                             | near                    | bl\'\i zko         |
+| jetzt                           | now                     | nyn\'\i            |
+| wieder                          | again                   | zase               |
+| genug                           | enough                  | dost               |
+| zustimmen                       | to aggree               | souhlasit          |
+| luft                            | air                     | vzduch             |
+| tier                            | animal                  | zv\'\i\v re        |
+| kunst                           | art                     | um\v en\'\i        |
+| antwort                         | answer                  | odpov\v ed         |
+| argument                        | argument                | argument           |
+| die Attacke, der Angriff        | attack                  | \'utok             |
+| der Kampf                       | fight                   | boj                |
+| der Versuch                     | attempt, experiment     | pokus              |
+| die Aufmerksamkeit              | attention               | pozornost          |
+| der R\"ucken                    | the back                | z\'ada             |
+| r\"uckw\"arts                   | backwards               | nazp\'atek         |
+| vorw\"arts                      | forward                 | vp\v red           |
+| die Grundlage                   | base                    | z\'aklad           |
+| das Betragen                    | behaviour               | chov\'an\'\i       |
+| der Glauben                     | belief                  | v\'\i ra           |
+| Geburtstag                      | birthday                | narosenine         |
+| beissen                         | to bite                 | kousat             |
+| das Blut                        | blood                   | krev               |
+| der K\"orper                    | body                    | t\v elo            |
+| der Atem                        | breath                  | drch               |
+| der Bruder                      | brother                 | bratr              |
+| das Geb\"aude                   | building                | budova             |
+| brennen                         | burn                    | ho\v ret           |
+| das Gesch\"aft                  | business                | obchod             |
+| die Butter                      | butter                  | m\'aslo            |
+| der Schutz                      | protection              | obrana             |
+| das Gl\"uck                     | luck                    | \v st\v est\'\i    |
+| die Farbe                       | color                   | barva              |
+| der Komfort, die Bequemlichkeit | comfort                 | komfort            |
+| der Vergleich                   | comparison              | porovn\'an\'\i     |
+| der Wettkampf                   | competition             | z\'avod            |
+| die Bedingung                   | condition               | podminka           |
+| die Verbindung                  | connection              | spojen\'\i         |
+| die Kontrolle                   | control                 | kontrola           |
+| kochen                          | to cook                 | va\v rit           |
+| kopieren                        | to copy                 | kopirovat          |
+| der Korken                      | cork                    | korek              |
+| die Baumwolle                   | cotton                  | kavlna             |
+| der Husten                      | cough                   | ka\v sel           |
+| das Land                        | country                 | zem\v e            |
+| der Riss                        | crack                   | sp\'ara            |
+| die Kriminalit\"at              | crime                   | kriminalita        |
+| weinen                          | to cry                  | bre\v cet          |
+| die Kurve                       | curve                   | k\v rivka          |
+| der Schaden                     | damage                  | skoda              |
+| zerst\"oren                     | to destroy              | zni\v cit          |
+| die Gefahr                      | danger                  | nebezpe\v ci       |
+| das Beispiel                    | example                 | p\v r\'\i klad     |
+| der Austausch                   | to exchange             | vym\v enit         |
+| die Erfahrung                   | experience              | zku\v senost       |
+| der Fakt                        | fact                    | fakt               |
+| fallen                          | to fall                 | padat              |
+| die Familie                     | family                  | rodina             |
+| der Vater                       | father                  | otec               |
+| die Angst                       | fear                    | strch              |
+| das Gef\"uhl                    | feeling                 | pocit              |
+| das Feld                        | field                   | pole               |
+| das Feuer                       | fire                    | ohe\v n            |
+| die Flamme                      | flame                   | plamen             |
+| der Flug                        | flight                  | let                |
+| die Blume                       | flower                  | kv\v etina         |
+| das Essen                       | food                    | j\'\i dlo          |
+| die Kraft [Newton]                       | force                   | s\'\i la           |
+| die Form                        | form                    | dotazn\'\i k       |
+| der Freund, die Freundin        | friend                  | kamar\'ad          |
+| die Frucht                      | fruit                   | ovoce              |
+| das Glas                        | glass                   | sklo               |
+| das Gold                        | gold                    | zlato              |
+| die Regierung                   | government              | vl\'ada            |
+| das Gras                        | grass                   | tr\'ava            |
+| die Gruppe                      | group                   | skupina            |
+| der F\"uhrer                    | guide                   | pr\accent23 uvodce |
+| hassen                          | to hate                 | nen\'avid\v et     |
+| h\"ohren                        | to hear                 | sly\v set          |
+| die W\"arme [Joule]                  | heat                    | teplo              |
+| helfen                          | to help                 | pomoct             |
+| die Geschichte                  | history                 | historie           |
+| das Loch                        | hole                    | d\'\i ra           |
+| hoffen                          | to hope                 | doufat             |
+| die Stunde                      | hour                    | hodina             |
+| der Humor                       | humour                  | humor              |
+| das Eis                         | ice                     | led                |
+| die Eiscreme                    | ice cream               | zmrzlina           |
+| die Idee                        | idea                    | napad              |
+| erh\"ohen                       | to increase             | p\v ridat          |
+| steigen (die Treppe)            | to climb (stairs)       | vyl\'ezt           |
+| die Industrie                   | industry                | pr\accent23 umysl  |
+| das Insekt                      | insect                  | hmyz               |
+| das Instrument                  | instrument              | n\'astroj          |
+| die Versicherung                | insurance               | poji\v st\v en\'\i |
+| die Erfindung                   | invention               | vyn\'alez          |
+| das Eisen                       | iron                    | \v zelezo          |
+|                                 | join (people)           | p\v ridatse        |
+|                                 | journey                 | cesta              |
+|                                 | to jump                 | sk\'akat           |
+|                                 | to kick                 | kopat              |
+|                                 | to kiss                 | pol\'\i bit        |
+|                                 | full                    | pln\'y             |
+|                                 | daughter                | dcera              |
+|                                 | day                     | den                |
+|                                 | death                   | smrt               |
+|                                 | debt                    | dluh               |
+|                                 | decission               | rozhodnut\'\i      |
+|                                 | degree (celsius, angle) | stupe\v n          |
+|                                 | detail                  | detail             |
+|                                 | development             | vyvoj              |
+|                                 | digestion               | tr\'aven\'\i       |
+|                                 | direction               | sm\v er            |
+|                                 | discovery               | objev              |
+|                                 | discussion              | diskuze            |
+|                                 | disease                 | nemoc              |
+|                                 | disgusting              | nechutny           |
+|                                 | distance                | vzd\'alenost       |
+|                                 | distribution            | distribuce         |
+|                                 | division (math, cells)  | d\v elen\'\i       |
+|                                 | doubt                   | pochybovat         |
+|                                 | to drink                | p\'\i t            |
+|                                 | to drive                | \v r\'\i dit       |
+|                                 | dust                    | prach              |
+|                                 | earth                   | zem\v e            |
+|                                 | edge                    | hrana              |
+|                                 | education               | v\'ychova          |
+|                                 | end                     | konec              |
+|                                 | error                   | chyva              |
+|                                 | event                   | ud\'alost          |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
+|                                 |                         |                    |
