@@ -3,7 +3,7 @@
 |---------------------------------+-------------------------+--------------------|
 | kommen                          | come                    | p\v rij\'\i t      |
 | bekommen                        | get                     | dostat             |
-| geben                           | give, put               | d\'at              |
+| geben                           | give, put               | d\'ati              |
 | gehen                           | go                      | j\'\i t            |
 | lassen                          | let                     | nechat             |
 | machen                          | do, make                | d\v elat           |
